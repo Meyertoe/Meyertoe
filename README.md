@@ -1,3 +1,5 @@
+![Simon Mayr - Frontend Developer](./profile-banner.png)
+
 ## Hi there 👋
 
 <!--
